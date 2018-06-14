@@ -1,5 +1,5 @@
 
-Active Learning for Soundscape Classification
+<b>Active Learning for Soundscape Classification</b>
 
 This repository contains Java source code for classifying long-duration environmental audio recordings using active learning. The active learning approaches are  described and evaluated in:
 
